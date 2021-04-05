@@ -63,4 +63,5 @@
 `KMS 啟用有效期僅 180 天，在正常情況下，系統會每 7 天續期一次。`
 
 ###需要更多幫助嗎？
+
 [Microsoft 官方支援團隊](https://support.microsoft.com/zh-hk/contact/virtual-agent/)
